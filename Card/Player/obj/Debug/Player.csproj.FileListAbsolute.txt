@@ -1,0 +1,8 @@
+G:\源代码\C#\Card\Player\bin\Debug\Player.exe.config
+G:\源代码\C#\Card\Player\bin\Debug\Player.exe
+G:\源代码\C#\Card\Player\bin\Debug\Player.pdb
+G:\源代码\C#\Card\Player\bin\Debug\Card.dll
+G:\源代码\C#\Card\Player\bin\Debug\Card.pdb
+G:\源代码\C#\Card\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+G:\源代码\C#\Card\Player\obj\Debug\Player.exe
+G:\源代码\C#\Card\Player\obj\Debug\Player.pdb

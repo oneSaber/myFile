@@ -1,0 +1,5 @@
+G:\源代码\C#\Card\Card\bin\Debug\Card.dll
+G:\源代码\C#\Card\Card\bin\Debug\Card.pdb
+G:\源代码\C#\Card\Card\obj\Debug\Card.csprojResolveAssemblyReference.cache
+G:\源代码\C#\Card\Card\obj\Debug\Card.dll
+G:\源代码\C#\Card\Card\obj\Debug\Card.pdb
